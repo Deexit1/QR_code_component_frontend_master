@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://deexit.vercel.app)
 
 ## My process
 
@@ -20,13 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
-- Website - [Deexit](https://www.deexit.vercel.app)
+- Website - [Deexit](https://deexit.vercel.app)
 - Frontend Mentor - [@Deexit1](https://www.frontendmentor.io/profile/Deexit1)
